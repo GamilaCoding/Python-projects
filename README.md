@@ -74,3 +74,7 @@ this is the repo for practice exercises with Python programming, I working on it
                          /_________\\
                        .-------------.
                       /_______________\\
+
+
+## 5-Guess the word
+  
