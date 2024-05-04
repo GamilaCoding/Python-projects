@@ -1,6 +1,7 @@
 # Python-projects
 
-this is the repo for practice exercises with Python programming, I working on it to show my skills in python-projects
+This repository contains practice exercises in Python programming. I'm working on it to demonstrate my proficiency with the language.
+
 ## 1-find_ducks
     _____
                      _-~~     ~~-_//
